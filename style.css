@@ -5,6 +5,18 @@ body {
   color: #AA0000;
 }
 
+header {
+  background: url('banner.png') no-repeat center center;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  padding: 80px 20px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 h1 {
   font-size: 2em;
   color: #AA0000;
